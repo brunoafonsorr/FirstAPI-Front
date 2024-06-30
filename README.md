@@ -28,3 +28,12 @@ export default {
 - Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
 - Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
 - Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+
+# [DevClub | Programação](https://www.youtube.com/@canaldevclub)
+Neste vídeo, você aprenderá a construir uma aplicação web do zero usando React. 
+
+Começaremos com os conceitos básicos, passando pela criação de componentes e gerenciamento de estado, até chegar à integração com um back-end e o consumo de APIs. 
+
+Este vídeo é perfeito tanto para iniciantes quanto para aqueles que desejam reforçar seus conhecimentos em React. 
+
+Vou guiá-lo passo a passo na criação de uma aplicação completa, conectando o front-end ao back-end, para que você possa entender e aplicar essas habilidades em seus próprios projetos.
